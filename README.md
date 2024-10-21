@@ -1,1 +1,1 @@
-# three.js-intro-project
+# THREE.js Earth 
